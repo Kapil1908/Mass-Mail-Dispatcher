@@ -1,5 +1,3 @@
-# Mass-Mail-Dispatcher
+legendary-rabanadas-4dbc8e.netlify.app
 
 
-Here is website link:
-"legendary-rabanadas-4dbc8e.netlify.app"
